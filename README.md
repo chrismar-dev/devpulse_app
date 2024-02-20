@@ -1,8 +1,11 @@
 
-# [DevPulse](https://devpulse-app-vdcy-git-master-chrismar-devs-projects.vercel.app/) 
+# [DevPulse](https://devpulse-app-vdcy.vercel.app/) 
 By Christian Marbury
 ## Live Link: 
-[DevPulse](https://devpulse-app-vdcy-git-master-chrismar-devs-projects.vercel.app/)
+[DevPulse](https://devpulse-app-vdcy.vercel.app/)
+
+Welcome to DevPulse, a social media website for develoers to connect and chat with eachother. This was built on the MERN stack by me, Christian Marbury. Additional technologies used are listed below, along with more features. 
+
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
